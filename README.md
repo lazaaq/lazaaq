@@ -9,11 +9,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love her
 
-### Connect with me:
-
-<a href="https://linkedin.com/in/lana-saiful-aqil"><img align="left" style="color:white;" alt="lazaaq | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://instagram.com/lazaaqaazal"><img align="left" style="color:white;" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
 <br />
 
 ### Languages and Tools:
