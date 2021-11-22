@@ -1,6 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaaq&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=refeed&show_icons=true&count_private=true&theme=highcontrast&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaaq&theme=chartreuse-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaaq&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazaaq&theme=chartreuse-dark&hide=html&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
