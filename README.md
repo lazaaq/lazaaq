@@ -1,4 +1,4 @@
-### Hi there, I'm Aqil - aka [lazaaq][website] 👋 
+### Hi there, I'm Aqil - aka "lazaaq" 👋 
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lazaaqaazal)
 
@@ -20,7 +20,9 @@
 
 <br />
 <br />
-
+<br />
+<br />
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaaq&theme=chartreuse-dark&show_icons=true)
 
