@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Laravel, and Vue.js
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love her
+- ⚡ Fun fact: I'm straight
 
 ### Languages and Tools:
 
