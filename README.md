@@ -1,6 +1,6 @@
 ### Hi there, I'm Aqil - aka [lazaaq][website] 👋 
 
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lazaaq)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lazaaqaazal)
 
 ## I'm a Student at Universitas Gadjah Mada
 
