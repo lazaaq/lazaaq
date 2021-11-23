@@ -38,17 +38,6 @@
 <div align="center">
     <img src="assets/errbint500.gif" alt="" >
 </div>
-
----
-
-**Tech Stacks**
-
-[![](https://img.shields.io/badge/JAVASCRIPT%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=F0DB4F)](https://javascript.com)
-[![](https://img.shields.io/badge/TAILWIND%20-%2338B2AC.svg?&style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![](https://img.shields.io/badge/FIGMA%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)](https://figma.com) 
-
-<br>
-
 <br>
 
 <!--
