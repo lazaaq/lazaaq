@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Laravel, and Vue.js
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm straight
 
 ### Languages and Tools:
 
@@ -20,7 +19,7 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaaq&theme=chartreuse-dark&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazaaq&theme=chartreuse-dark&show_icons=true)
 
 
 <!--
