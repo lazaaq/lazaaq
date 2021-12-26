@@ -1,4 +1,4 @@
-### Hi there, I'm Aqil - aka "lazaaq" 👋 
+### Hi there, I'm Aqil👋 
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lazaaqaazal)
 <br>
