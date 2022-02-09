@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Laravel, and Vue.js
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
 
