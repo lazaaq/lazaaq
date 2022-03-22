@@ -7,7 +7,7 @@
 
 ## I'm a Student at Universitas Gadjah Mada
 
-- 🌱 I’m currently learning Laravel, and Vue.js
+- 🌱 I’m currently learning Vue.js
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
