@@ -7,7 +7,7 @@
 
 ## I'm a Student at Universitas Gadjah Mada
 
-- 🌱 I’m currently learning Vue.js and Node.js
+- 🌱 I’m currently learning Alpine.js, Express.js, and Tailwindcss
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Projects
 
