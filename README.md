@@ -1,15 +1,14 @@
 ### Hi there, I'm Aqil👋 
 
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lazaaqaazal)
-<br>
+
 [![Foo](https://komarev.com/ghpvc/?username=lazaaq&color=lightgrey)]()
 [![Foo](https://img.shields.io/github/followers/lazaaq?label=follow%20me&style=social)](https://github.com/lazaaq)
 
-## I'm a Student at Universitas Gadjah Mada
+## I'm a FullStack Web Developer & Machine Learning Engineer
 
-- 🌱 I’m currently learning Alpine.js, Express.js, and Tailwindcss
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Projects
+- Learning is my passion (as long i have time)
+- Time is money
 
 ### Languages and Tools:
 
@@ -25,6 +24,7 @@
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" alt="Vue" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-js.png"/>
 
 <br />
 <br />
