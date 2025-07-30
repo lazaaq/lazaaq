@@ -7,8 +7,6 @@
 ## I'm a FullStack Web Developer & Machine Learning Engineer
 
 - 👯 I’m looking to collaborate with other developers
-- Learning is my passion (as long i have time)
-- Time is money
 
 ### Languages and Tools:
 
