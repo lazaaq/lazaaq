@@ -4,13 +4,13 @@
 [![Foo](https://komarev.com/ghpvc/?username=lazaaq&color=lightgrey)]()
 [![Foo](https://img.shields.io/github/followers/lazaaq?label=follow%20me&style=social)](https://github.com/lazaaq)
 
-## I'm a FullStack Web Developer & Machine Learning Engineer
+## I'm a Data Analyst
 
 - 👯 I’m looking to collaborate with other developers
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -21,8 +21,26 @@
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
 <img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" alt="Vue" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img align="left" alt="Vue" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png"/> -->
 
+<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<img align="left" alt="NumPy" width="30px" src="https://icon.icepanel.io/Technology/svg/NumPy.svg"/>
+<img align="left" alt="Pandas" width="30px" src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg"/>
+<img align="left" alt="Matplotlib" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
+<img align="left" alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"/>
+<img align="left" alt="Scikit-Learn" width="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png"/>
+<img align="left" alt="TensorFlow" width="30px" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<img align="left" alt="PyTorch" width="30px" src="https://pytorch.org/assets/images/pytorch-logo.png"/>
+<img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
+<img align="left" alt="SQL" width="30px" src="https://img.icons8.com/color/48/000000/sql.png"/>
+<img align="left" alt="PostgreSQL" width="30px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="Docker" width="30px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" alt="Linux" width="30px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+
+<br />
+<br />
+Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, PyTorch, Jupyter Notebook, SQL, PostgreSQL, Git, Docker, Linux.
 <br />
 <br />
 <br />
