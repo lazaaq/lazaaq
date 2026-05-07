@@ -39,7 +39,6 @@ HTML5, CSS3, JavaScript, Vue.js, Bootstrap, PHP, Laravel, Python, Java, C++, Wor
 
 
 
-
 <div align="center">
     <img src="assets/errbint500.gif" alt="" >
 </div>
