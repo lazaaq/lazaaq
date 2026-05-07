@@ -4,7 +4,7 @@
 [![Foo](https://komarev.com/ghpvc/?username=lazaaq&color=lightgrey)]()
 [![Foo](https://img.shields.io/github/followers/lazaaq?label=follow%20me&style=social)](https://github.com/lazaaq)
 
-## I'm a Data Analyst
+## I'm a Full-Stack Developer
 
 - 👯 I’m looking to collaborate with other developers
 
